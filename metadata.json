@@ -1,0 +1,6 @@
+{
+  "name": "হাওলাদার ডিজিটাল সার্ভে",
+  "description": "প্রফেশনাল জমি পরিমাপ, ডিজিটাল সার্ভে, নকশা তৈরি, খতিয়ান ব্যবস্থাপনা ও জমি ভাগ-বণ্টন অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

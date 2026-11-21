@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">হাওলাদার ডিজিটাল সার্ভে</string>
+    <string name="app_subtitle">ডিজিটাল ভূমি জরিপ ও নকশা ব্যবস্থাপনা</string>
+    <string name="gps_disclaimer">সতর্কতা: মোবাইল GPS দিয়ে সাধারণ অবস্থান ও প্রাথমিক পরিমাপ করা যায়। আইনগত বা চূড়ান্ত সীমানা নির্ধারণের জন্য অনুমোদিত ডিজিটাল সার্ভে যন্ত্র (Total Station / DGPS) ব্যবহার করুন।</string>
+</resources>
